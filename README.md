@@ -156,10 +156,11 @@ Read them here: [Click on this](https://github.com/SonixQMK/Mechanical-Keyboard-
 
   ## 100 Keys
 
-  | Brand        | Model      | MCU  | Rebrand MCU | QMK  | Link | Backlight | Hotswap | Wireless                | KLE                                                                                    |
-  | ------------ | ---------- | ---- | ----------- | ---- | ---- | --------- | ------- | ----------------------- | -------------------------------------------------------------------------------------- |
-  | Royal Kludge | RK100(860) | ?    | ?           | No   |      | White     | All     | Bluetooth 5.0 & 2.4 GHz | [Here](http://www.keyboard-layout-editor.com/#/gists/708d3282ca2169d08408cd1c718991c4) |
-  |              |            |      |             |      |      |           |         |                         |                                                                                        |
+  | Brand        | Model      | MCU        | Rebrand MCU | QMK  | Link | Backlight | Hotswap | Wireless                | KLE                                                                                    |
+  | ------------ | ---------- | ----       | ----------- | ---- | ---- | --------- | ------- | ----------------------- | -------------------------------------------------------------------------------------- |
+  | Royal Kludge | RK100(860) | ?          | ?           | No   |      | White     | All     | Bluetooth 5.0 & 2.4 GHz | [Here](http://www.keyboard-layout-editor.com/#/gists/708d3282ca2169d08408cd1c718991c4) |
+  | Royal Kludge | RK100(860) | HFD2201KBA | SN32F248B   | WIP  |      | RGB       | All     | Bluetooth 5.0 & 2.4 GHz |                                                                                        |
+  |              |            |            |             |      |      |           |         |                         |                                                                                        |
 </details>
 
 ## 100% Layout (Full-size)
